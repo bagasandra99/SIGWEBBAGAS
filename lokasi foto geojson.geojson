@@ -34,7 +34,6 @@
     { "type": "Feature", "properties": { "Latitude": -8.04144, "Longitude": 112.76914, "Lokasi": "Wonomulyo" }, "geometry": { "type": "Point", "coordinates": [ 112.76914, -8.04144 ] } },
     { "type": "Feature", "properties": { "Latitude": -7.93783, "Longitude": 112.67798, "Lokasi": "Tirtomoyo" }, "geometry": { "type": "Point", "coordinates": [ 112.67798, -7.93783 ] } },
     { "type": "Feature", "properties": { "Latitude": -8.01137, "Longitude": 112.75686, "Lokasi": "Tumpang" }, "geometry": { "type": "Point", "coordinates": [ 112.75686, -8.01137 ] } },
-    { "type": "Feature", "properties": { "Latitude": -8.18542, "Longitude": 110.69946, "Lokasi": "Balong" }, "geometry": { "type": "Point", "coordinates": [ 110.69946, -8.18542 ] } },
-    { "type": "Feature", "properties": { "Latitude": -7.80446, "Longitude": 110.24624, "Lokasi": "Sumberrahayu" }, "geometry": { "type": "Point", "coordinates": [ 110.24624, -7.80446 ] } }
+    { "type": "Feature", "properties": { "Latitude": -8.18542, "Longitude": 110.69946, "Lokasi": "Balong" }, "geometry": { "type": "Point", "coordinates": [ 110.69946, -8.18542 ] } }
   ]
 }
