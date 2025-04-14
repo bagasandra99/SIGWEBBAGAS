@@ -4,7 +4,7 @@
   "features": [
     { "type": "Feature", "properties": { "Latitude": -8.4432, "Longitude": 112.66403, "Lokasi": "Sitiarjo", "image": "https://simpan.ugm.ac.id/s/BnNSw1o1RayVfPj/download" }, "geometry": { "type": "Point", "coordinates": [ 112.66403, -8.4432 ] } },
     { "type": "Feature", "properties": { "Latitude": -8.15656, "Longitude": 114.43242, "Lokasi": "Selat Bali", "image": "https://simpan.ugm.ac.id/s/JPzV7o3m0FakL0P/download" }, "geometry": { "type": "Point", "coordinates": [ 114.43242, -8.15656 ] } },
-    { "type": "Feature", "properties": { "Latitude": -8.50074, "Longitude": 115.02525, "Lokasi": "Bajera", "image": "https://simpan.ugm.ac.id/s/W8mMEij71FZqwQT/download" }, "geometry": { "type": "Point", "coordinates": [ 115.02525, -8.50074 ] } },
+    { "type": "Feature", "properties": { "Latitude": -8.50074, "Longitude": 115.02525, "Lokasi": "Bajera", "image": "https://simpan.ugm.ac.id/s/wp6dQ6qYduDYh7v/download" }, "geometry": { "type": "Point", "coordinates": [ 115.02525, -8.50074 ] } },
     { "type": "Feature", "properties": { "Latitude": -8.49259, "Longitude": 114.96128, "Lokasi": "Lalang Linggah", "image": "https://simpan.ugm.ac.id/s/YXEaRaJMTJsRM6X/download" }, "geometry": { "type": "Point", "coordinates": [ 114.96128, -8.49259 ] } },
     { "type": "Feature", "properties": { "Latitude": -8.03014, "Longitude": 110.34636, "Lokasi": "Giricahyo", "image": "https://simpan.ugm.ac.id/s/btJB2lwTBRh76u7/download" }, "geometry": { "type": "Point", "coordinates": [ 110.34636, -8.03014 ] } },
     { "type": "Feature", "properties": { "Latitude": -8.00885, "Longitude": 110.29321, "Lokasi": "Sungai Opak", "image": "https://simpan.ugm.ac.id/s/M5eKUJVkgDxKGRf/download" }, "geometry": { "type": "Point", "coordinates": [ 110.29321, -8.00885 ] } },
