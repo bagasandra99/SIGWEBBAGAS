@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "name": "lokasi foto geojson",
 "features": [
-{ "type": "Feature", "properties": { "Latitude": -8.4432, "Longitude": 112.66403, "Lokasi": "Sitiarjo" }, "geometry": { "type": "Point", "coordinates": [ 112.66403, -8.4432 ] } },
+{ "type": "Feature", "properties": { "Latitude": -8.4432, "Longitude": 112.66403, "Lokasi": "Sitiarjo","image": "https://simpan.ugm.ac.id/s/W8mMEij71FZqwQT/download" }, "geometry": { "type": "Point", "coordinates": [ 112.66403, -8.4432 ] } },
 { "type": "Feature", "properties": { "Latitude": -7.97205, "Longitude": 112.64037, "Lokasi": "Lapangan Rampal" }, "geometry": { "type": "Point", "coordinates": [ 112.64037, -7.97205 ] } },
 { "type": "Feature", "properties": { "Latitude": -7.99211, "Longitude": 112.62085, "Lokasi": "Sukun" }, "geometry": { "type": "Point", "coordinates": [ 112.62085, -7.99211 ] } },
 { "type": "Feature", "properties": { "Latitude": -8.15656, "Longitude": 114.43242, "Lokasi": "Selat Bali" }, "geometry": { "type": "Point", "coordinates": [ 114.43242, -8.15656 ] } },
